@@ -40,15 +40,15 @@ Fifty-six people responded to the survey, of which 47 were valid responses.
 ## Discussion
 The accuracy of the decision tree model is about 93%, with three cases of high depression and two cases of low depression were obtained.
 
-![](Inkedgraph_random_Li.jpg)
+![](https://github.com/jabelic/COVID19-d8n-Analysis/blob/master/Inkedgraph_random_LI.jpg)
 
 |DepressionLevel(x)|work|family|classes|salarry|study|meal|sleepAve|
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|$4\&5$|$x > 7.5$|$x > 2.5$||||||
-|$5$|$x \leq 7.5$|||$x > 3.5$||||
-|$5$|$x \leq 7.5$||$x > 8.0$|$x \leq 0.5$|$x \leq 32.5$|||
-|$1$|$x > 7.5$|$x \leq 2.5$|$x > 8.5$|||||
-|$2$|$x \leq 7.5$|||$0.5 < x \leq 3.5$||$x > 2.5$|$x > 5.5$|
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+|4&5|x > 7.5|x > 2.5||||||
+|5|x <= 7.5|||x > 3.5||||
+|5|x <= 7.5||x > 8.0|x <= 0.5|x <= 32.5|||
+|1|x > 7.5|x <= 2.5|x > 8.5|||||
+|2|x <= 7.5|||0.5 < x <= 3.5||x > 2.5|x > 5.5|
 
 
 Firstly, the fifth case from the top of the table is a healthy life, and it can be interpreted that leading a life that is generally seen as low in Stress is helpful in avoiding depression. The top case is for those who work a lot and live  with their parents for a while, the second case is for those who live at home with high income families, and the third case is for those who are feeling depressed and have more lectures, lower part-time income, and are more likely to live alone.
