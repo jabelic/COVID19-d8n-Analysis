@@ -1,6 +1,6 @@
 # The survey of young people's feelings of depression
 A study was conducted in an English class to compile and analyze questionnaires about the factors that make young people feel depressed as of July 2020.
-2020年7月現在での若者の憂鬱さを感じる要因についてをアンケートを集計して分析をする研究を行った.
+
 
 ## Introduction
 
@@ -20,6 +20,7 @@ Note that, "ease of living” is assumpted to depend on the burden of household 
 ## Method
 In this study, data were collected through a questionnaire and a model was constructed and analyzed by decision trees.
 The questionnaire items used in this study are as follows ↓. As an explanatory variable, we asked about the individual's status and how he or she has been living in the last three months. As a correct label, I asked them to use the five-point scale to see if they had experienced lethargy or mood changes in the past three months.
+Fifty-six people responded to the survey, of which 47 were valid responses.
 
 #### As explanatory variables
 - Gender
@@ -60,6 +61,7 @@ If you notice something unusual about your friends around you, try to be aware o
 
 ## Reference
 
+- [企業従業員における健康習慣 と抑 うつ症状の関連性](https://www.jstage.jst.go.jp/article/joh1959/29/1/29_1_55/_pdf/-char/ja)
 
-
+- [ストレス度と生活習慣,ドック検査結果との関係と3年間の推移](https://www.jstage.jst.go.jp/article/ningendock2005/23/3/23_527/_pdf/-char/ja)
 
