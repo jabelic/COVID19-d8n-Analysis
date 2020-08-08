@@ -43,7 +43,7 @@ The accuracy of the decision tree model is about 93%, with three cases of high d
 ![](https://github.com/jabelic/COVID19-d8n-Analysis/blob/master/Inkedgraph_random_LI.jpg)
 
 |DepressionLevel(x)|work|family|classes|salarry|study|meal|sleepAve|
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 |4&5|x > 7.5|x > 2.5||||||
 |5|x <= 7.5|||x > 3.5||||
 |5|x <= 7.5||x > 8.0|x <= 0.5|x <= 32.5|||
